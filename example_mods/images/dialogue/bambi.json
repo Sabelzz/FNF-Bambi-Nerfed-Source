@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		160,
+		130
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				2
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "bambitalk",
+			"idle_name": "bambitalkdone"
+		},
+		{
+			"loop_name": "bambioktalk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bambioktalkdone",
+			"anim": "ok",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bambihappytalk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bambihappytalkdone",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bambi"
+}
