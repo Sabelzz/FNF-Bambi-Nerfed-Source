@@ -1,1 +1,1 @@
-this is old, shut the hell up
+this is old, stfu
